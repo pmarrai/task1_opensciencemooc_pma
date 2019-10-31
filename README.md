@@ -6,7 +6,7 @@ Since it's just a test repository. It doesn't include any valuable piece of code
 For more information about the licence, check [LICENSE](https://github.com/pmarrai/task1_opensciencemooc_pma/blob/master/LICENSE).
 
 ## Contribution
-For more information about how to contribute to this repository, check CONTRIBUTION.
+For more information about how to contribute to this repository, check [CONTRIBUTION](https://github.com/pmarrai/task1_opensciencemooc_pma/blob/master/CONTRIBUTION.md).
 
 ## Code of conduct
 For more information about the code of conduct, check CODE_OF_CONDUCT.

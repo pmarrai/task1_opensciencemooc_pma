@@ -9,4 +9,4 @@ For more information about the licence, check [LICENSE](https://github.com/pmarr
 For more information about how to contribute to this repository, check [CONTRIBUTION](https://github.com/pmarrai/task1_opensciencemooc_pma/blob/master/CONTRIBUTION.md).
 
 ## Code of conduct
-For more information about the code of conduct, check CODE_OF_CONDUCT.
+For more information about the code of conduct, check [CODE_OF_CONDUCT](https://github.com/pmarrai/task1_opensciencemooc_pma/blob/master/CODE_OF_CONDUCT.md).

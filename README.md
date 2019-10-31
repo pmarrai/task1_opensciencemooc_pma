@@ -15,3 +15,7 @@ For more information about the code of conduct, check [CODE_OF_CONDUCT](https://
 This repository has been published on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3524171.svg)](https://doi.org/10.5281/zenodo.3524171).
 
 Cite as: Paloma Marín-Arraiza. (2019, October 31). pmarrai/task1_opensciencemooc_pma: First release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3524171
+
+## Update with RStudio
+
+This is just an update using RStudio for task 3

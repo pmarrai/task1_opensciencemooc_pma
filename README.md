@@ -1,2 +1,12 @@
-# task1_opensciencemooc_pma
-Repository for task 1 of Open Science MOOC (Module 5)
+# Task 1 - Open Science MOOC (Module 5)
+This repository was created to complete the first task of module 5 of the Open Science MOOC.
+Since it's just a test repository. It doesn't include any valuable piece of code. However, I encourage everyone to have a look at the Open Science MOOC to gather more information about how to conduct research following open science practices.
+
+## Licenses 
+For more information about the licence, check LICENCE.
+
+## Contribution
+For more information about how to contribute to this repository, check CONTRIBUTION.
+
+## Code of conduct
+For more information about the code of conduct, check CODE_OF_CONDUCT.
